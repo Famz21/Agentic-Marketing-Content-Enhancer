@@ -74,7 +74,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🙏 Thank You!
 
-Thank you for choosing the **Agentic Marketing Content Enhancer**! We’re excited to help you create exceptional content that drives results. Let’s get started! 🚀🎉
+Thank you for choosing the **Agentic Marketing Content Enhancer**! We’re excited to help you create exceptional content that drives results. Let’s get started!🚀🎉
 
 
 
